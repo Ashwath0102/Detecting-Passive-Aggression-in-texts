@@ -1,4 +1,4 @@
-# Detecting-Passive-Aggression-in-texts
+# NLP-Based Passive Aggression Classification in Online Textual Communication
 
 ## NLP Program to Detect Passive-Aggressive Statements
 
