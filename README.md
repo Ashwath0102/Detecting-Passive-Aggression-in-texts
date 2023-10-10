@@ -69,7 +69,7 @@ While sentiment analysis falls short in capturing subtle nuances, the integratio
 **GPT-3:** In the final iteration, the GPT-3 model achieved an accuracy of 50.52%, which suggests a random classification performance.
 
 
-**Implications of the Results:**
+#### **Implications of the Results:**
 
 1. **Reliable Communication**: The model’s 84.54% accuracy ensures consistent detection of passive-aggressive language, vital for clear communication in online forums and social media platforms.
 
@@ -81,7 +81,7 @@ While sentiment analysis falls short in capturing subtle nuances, the integratio
 
 5. **User Feedback**: The model offers educational feedback, encouraging users to be mindful of communication styles, and promoting better online etiquette.
 
-**Limitations and Future Improvements:**
+#### **Limitations and Future Improvements:**
 
 1. **Nuance Challenges**: Subtle language nuances like sarcasm remain challenging. Continuous training with diverse datasets mitigates these limitations.
 
@@ -91,4 +91,4 @@ While sentiment analysis falls short in capturing subtle nuances, the integratio
 
 4. **Ethical Considerations**: Addressing biases and ensuring fairness through ongoing evaluation is crucial for diverse user groups.
 
-In summary, the Logistic Regression TF-IDF model's 84.54% accuracy demonstrates its effectiveness in detecting passive-aggressive language. Acknowledging its limitations, continuous refinement promises a more nuanced and applicable tool, fostering respectful online communication.
+*In summary, the Logistic Regression TF-IDF model's 84.54% accuracy demonstrates its effectiveness in detecting passive-aggressive language. Acknowledging its limitations, continuous refinement promises a more nuanced and applicable tool, fostering respectful online communication.*
