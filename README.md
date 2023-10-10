@@ -36,7 +36,9 @@ The program employs several key components and techniques:
 
 1. **Dataset Creation**: The program generates a synthetic dataset containing both passive-aggressive and non-passive-aggressive statements.
 
-2. **Exploratory Data Analysis (EDA)**: The dataset's shape, column information, and class distribution are analyzed. Additionally, the length distributions of statements in terms of words and characters are visualized.
+2. **Exploratory Data Analysis (EDA)**: The dataset's shape, column information, and class distribution are analyzed. Additionally, the length distributions of statements in terms of words and characters are visualized. Word cloud:
+![download (3)](https://github.com/Ashwath0102/Detecting-Passive-Aggression-in-texts/assets/59199696/4afb8edc-4168-4b6b-9672-ca767b51a6f5)
+
 
 3. **Sentiment Analysis**: VADER sentiment analysis is performed to understand the emotional tone of statements. However, this analysis proves insufficient for detecting passive-aggressiveness accurately.
 
